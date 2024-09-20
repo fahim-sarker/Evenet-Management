@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.main{
+    height:30px;
+    width:1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+.main h1 i u{
+    color:black;
+    font-size: 50px;
+}
+.main1{
+    height:300px;
+    width:1200px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    margin-top: 30px;
+}
+.main1 .one{
+    height:100%;
+    width:400px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid red;
+}
+.main1 .two{
+    height:100%;
+    width:385px;
+    background-color: antiquewhite;
+    float: left;
+    border:2px solid red;
+}
+.main1 .three{
+    height:100%;
+    width:400px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid red;
+}
+.main2{
+    height:100px;
+    width:1200px;
+    margin:0 auto;
+    text-align: center;
+}
+.main2 h2 i u{
+    font-size: 50px;
+}
+.main3{
+    height:300px;
+    width:1200px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+.main3 .one{
+    height:100%;
+    width:400px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid red;
+}
+.main3 .two{
+    height:100%;
+    width:385px;
+    background-color: antiquewhite;
+    float: left;
+    border:2px solid red;
+}
+.main3 .three{
+    height:100%;
+    width:400px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid red;
+}
+.main4{
+    height:100px;
+    width:1200px;
+    margin:0 auto;
+    text-align: center;
+}
+.main4 h2 i u{
+    font-size: 50px;
+}
+.main5{
+    height:300px;
+    width:1200px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+.main5 .one{
+    height:100%;
+    width:400px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid red;
+}
+.main5 .two{
+    height:100%;
+    width:385px;
+    background-color: antiquewhite;
+    float: left;
+    border:2px solid red;
+}
+.main5 .three{
+    height:100%;
+    width:400px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid red;
+}
+.main6{
+    height:100px;
+    width:1200px;
+    margin:0 auto;
+    text-align: center;
+}
+.main6 h2 i u{
+    font-size: 50px;
+}
+.main7{
+    height:300px;
+    width:1200px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+.main7 .one{
+    height:100%;
+    width:400px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid red;
+}
+.main7 .two{
+    height:100%;
+    width:385px;
+    background-color: antiquewhite;
+    float: left;
+    border:2px solid red;
+}
+.main7 .three{
+    height:100%;
+    width:400px;
+    background-color: antiquewhite;
+    float: left;
+    border: 2px solid red;
+}
+
+
